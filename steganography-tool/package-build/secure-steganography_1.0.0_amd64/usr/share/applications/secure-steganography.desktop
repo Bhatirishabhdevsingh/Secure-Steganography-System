@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Secure Steganography
+Comment=Hide and extract encrypted payloads inside images
+Exec=/usr/local/bin/secure-steganography
+Terminal=false
+Type=Application
+Categories=Utility;Security;
+StartupNotify=true

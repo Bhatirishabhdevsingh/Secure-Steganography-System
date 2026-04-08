@@ -1,0 +1,8 @@
+2026-04-03 15:34:55 | INFO | encode | source=/home/kali/Desktop/Screenshot_2026-03-09_05-10-17.png | bytes=27 | status=success | output=/home/kali/Desktop/vapt/steganography-tool/output/Screenshot_2026-03-09_05-10-17_20260403_153443.png
+2026-04-03 15:35:01 | INFO | encode | source=/home/kali/Desktop/Screenshot_2026-03-09_05-10-17.png | bytes=27 | status=success | output=/home/kali/Desktop/vapt/steganography-tool/output/Screenshot_2026-03-09_05-10-17_20260403_153443.png
+2026-04-03 15:35:35 | INFO | decode | source=/home/kali/Desktop/Screenshot_2026-03-09_05-10-17.png | bytes=0 | status=failed | No valid Secure Steganography payload was found in this image.
+2026-04-03 15:35:39 | INFO | decode | source=/home/kali/Desktop/Screenshot_2026-03-09_05-10-17.png | bytes=0 | status=failed | No valid Secure Steganography payload was found in this image.
+2026-04-03 15:36:38 | INFO | decode | source=/home/kali/Desktop/vapt/steganography-tool/output/Screenshot_2026-03-09_05-10-17_20260403_153443.png | bytes=0 | status=failed | Password is incorrect or the hidden data was modified.
+2026-04-03 15:36:46 | INFO | decode | source=/home/kali/Desktop/vapt/steganography-tool/output/Screenshot_2026-03-09_05-10-17_20260403_153443.png | bytes=27 | status=success | saved=/home/kali/Desktop/vapt/steganography-tool/output/extracted_message_20260403_153646.txt
+2026-04-04 03:46:11 | INFO | decode | source= | bytes=0 | status=failed | Choose a stego image to decode.
+2026-04-04 03:46:12 | INFO | decode | source= | bytes=0 | status=failed | Choose a stego image to decode.
